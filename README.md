@@ -20,8 +20,8 @@ Run the program.
 ## PROGRAM:
 ~~~
 #Program to command line arguments to count word.
-#Developed by: Syed Abdul Wasih H
-#Register number: 212221240057
+#Developed by: Ragul AC
+#Register number: 212221240042
 import sys
 fp =open(sys.argv[1])
 data=fp.read()
@@ -30,7 +30,7 @@ print("Total Number of Words : ",len(words))
 ~~~
 ### OUTPUT:
 
-![output](1.png)
+![output](1.jpeg)
 
 
 ## RESULT:
