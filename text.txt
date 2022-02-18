@@ -1,0 +1,8 @@
+Classes and objects are the two main aspects of object oriented programming. 
+A class is the basic building block in Python. 
+A class creates a new type and object is an instance (or variable) of the class.
+Classes provides a blueprint or a template using which objects are created.
+In Python, everything is an object or an instance of some class.
+For example, all integer variables that we define in our program are actually instances of class int. 
+Similarly, all string variables are objects of class string.
+The Python Standard Library is based on the concept of classes and objects.
